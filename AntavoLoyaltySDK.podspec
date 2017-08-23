@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 The Antavo Loyalty Swift SDK makes it easy for mobile developers to build Antavo-powered applications. With the Swift SDK you can leverage the power of Antavo API functionality
                        DESC
 
-  s.homepage         = 'https://github.com/qzephyrmor/antavo-sdk'
+  s.homepage         = 'https://github.com/qzephyrmor/antavo-sdk-swift'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'qzephyrmor' => 'qzephyrmor@gmail.com' }
