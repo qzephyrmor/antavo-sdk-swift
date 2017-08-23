@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AntavoLoyaltySDK_Tests' do
+  pod 'AntavoLoyaltySDK', :path => '../'
+  
+  
+end
