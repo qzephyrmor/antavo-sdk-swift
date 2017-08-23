@@ -25,7 +25,7 @@ The Antavo Loyalty Swift SDK makes it easy for mobile developers to build Antavo
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'qzephyrmor' => 'qzephyrmor@gmail.com' }
-  s.source           = { :git => 'https://github.com/qzephyrmor/antavo-sdk.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/qzephyrmor/antavo-sdk-swift.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
